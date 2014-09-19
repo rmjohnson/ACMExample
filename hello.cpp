@@ -2,5 +2,9 @@
 
 int main()
 {
-  std::cout << "Hello ACM!";
+	double just
+	
+	cout<<"enter a number here: ";
+	cin>> just;
+	cout<< "Your number is: " >> just;
 }
